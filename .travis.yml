@@ -7,7 +7,7 @@ addons:
     sonarcloud:
         organization: "lorenzorossi02"
         token:
-            secure: "76f563054b255278f91e403b4fc1865dfd7b2181"
+            secure: "d7690fadb5641304aca7d0ba5703cf9087d73386"
             
 jdk:
 - openjdk8
